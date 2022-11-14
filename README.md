@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @irfanfaraaz
-- 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning flutter dev
 
 
 <!---
