@@ -67,6 +67,7 @@ Here are some ideas to get you started:
 ](https://scikit-learn.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ](https://www.tensorflow.org/)
+[![GraphQL](https://img.shields.io/badge/GraphQL-3670A0?style=for-the-badge&logo=GraphQL&logoColor=ffdd54)](https://www.graphql.org/)
 
 # 📊 GitHub Stats:
 
