@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🎓 I am a second year student at VIT Vellore (B.Tech CSE IOT) 
 
-- 🌱 I’m currently learning *Machine Learning*
+- 🌱 I’m currently learning *ML*
 
 
 
