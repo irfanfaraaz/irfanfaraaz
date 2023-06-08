@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=irfanfaraaz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=irfanfaraaz&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=irfanfaraaz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![SaiSreekar's Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=irfanfaraaz&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=irfanfaraaz&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
