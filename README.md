@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Syed Irfan Faraz</h1>
-<h3 align="center">Backend Web Developer | Competitive Coder | ML Enthusiast</h3>
+<h3 align="center">Full Stack Web Developer | Competitive Coder | ML & WEB3 Enthusiast</h3>
 <br>
 <img align="right" alt="Coding" width="500" src="https://appsmaventech.com/images/blog/The-Evolution-Of-Web-Development-Via-Machine-Learning.jpg">
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🎓 I am a second year student at VIT Vellore (B.Tech CSE IOT) 
 
-- 🌱 I’m currently learning *ML*
+- 🌱 I’m currently learning *ML, WEB3*
 
 
 
