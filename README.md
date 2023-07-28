@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-faraaz-b95b34227/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-irfan-faraz-b95b34227/)
 
 # 💻 Languages and Tools:
 
