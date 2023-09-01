@@ -19,15 +19,24 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="500" src="https://appsmaventech.com/images/blog/The-Evolution-Of-Web-Development-Via-Machine-Learning.jpg">
 
 ## About Me 👨🏻‍💻
-
-- 🎓 I am a second year student at VIT Vellore (B.Tech CSE IOT) 
+<a href="https://drive.google.com/file/d/19ab--QRTIWZywbK-OXmROhDMZ_OpmZm6/view?usp=sharing" target="_blank">My Resume</a>
+- 🎓 I am a Third year student at VIT Vellore (B.Tech CSE IOT) 
 
 - 🌱 I’m currently learning *ML, WEB3*
 
 
 
 - 📫 You can reach me at *irfanfaraaz03@gmail.com*
-<br>
+</div>
+
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+
 
 ## 🌐 Socials:
 
