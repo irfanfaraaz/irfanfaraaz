@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 </div>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanfaraaz&label=Profile%20views&color=0e75b6&style=flat" alt="irfanfaraaz" /> </p>
-## 🌐 Socials:
+
+
+# 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-irfan-faraz-b95b34227/)
 
