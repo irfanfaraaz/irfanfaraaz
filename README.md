@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 - 🎓 I am a Third year student at VIT Vellore (B.Tech CSE IOT) 
 
 - 🌱 I’m currently learning *ML, WEB3*
-
+  
+- 👯 I’m looking to collaborate on open source/commercial projects
 
 
 - 📫 You can reach me at *irfanfaraaz03@gmail.com*
