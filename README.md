@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 - 📫 You can reach me at *irfanfaraaz03@gmail.com*
 </div>
 
+## Holopin board
+
+[![@irfanfaraaz's Holopin board](https://holopin.me/irfanfaraaz)](https://holopin.io/@irfanfaraaz)
+
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
