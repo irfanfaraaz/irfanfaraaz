@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=irfanfaraaz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<img  src="https://github-stats-lemon.vercel.app/api?username=irfanfaraaz&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" ><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=irfanfaraaz&theme=tokyonight&hide_border=false)<br/>
 
 ### 🔝 Top Contributed Repo
