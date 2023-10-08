@@ -36,11 +36,6 @@ Here are some ideas to get you started:
 
 [![@irfanfaraaz's Holopin board](https://holopin.me/irfanfaraaz)](https://holopin.io/@irfanfaraaz)
 
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="" /></a>
-</div>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanfaraaz&label=Profile%20views&color=0e75b6&style=flat" alt="irfanfaraaz" /> </p>
@@ -56,7 +51,7 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 
-<img  src="https://github-stats-lemon.vercel.app/api?username=irfanfaraaz&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" ><br/>
+<img  src="https://github-stats-lemon.vercel.app/api?username=irfanfaraaz&show_icons=true&hide_border=true&theme=tokyonight" width="48%"  ><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=irfanfaraaz&theme=tokyonight&hide_border=false)<br/>
 
 ### 🔝 Top Contributed Repo
@@ -64,4 +59,9 @@ Here are some ideas to get you started:
 [![My Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=irfanfaraaz)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="" /></a>
+</div>
 ---
