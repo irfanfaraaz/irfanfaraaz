@@ -19,9 +19,15 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="500" src="https://appsmaventech.com/images/blog/The-Evolution-Of-Web-Development-Via-Machine-Learning.jpg">
 
 ## About Me 👨🏻‍💻
-<a href="https://irfanfaraz-portfolio.vercel.app" target="_blank">**Portfolio**</a><br/>
 
-<a href="https://drive.google.com/file/d/19ab--QRTIWZywbK-OXmROhDMZ_OpmZm6/view?usp=sharing" target="_blank">**My Resume**</a>
+
+## 🚀 Portfolio 
+[![Portfolio](https://img.shields.io/badge/%20🚀Portfolio-123456?style=for-the-badge)](https://irfanfaraz-portfolio.vercel.app)
+
+## 💼 Resume 
+
+[![Resume](https://img.shields.io/badge/%20Resume-8A2BE2?style=for-the-badge&logo=Google%20Drive&logoColor=cyan)](https://drive.google.com/file/d/19ab--QRTIWZywbK-OXmROhDMZ_OpmZm6/view?usp=sharing)
+
 - 🎓 I am a Third year student at VIT Vellore (B.Tech CSE IOT) 
 
 - 🌱 I’m currently learning *ML, WEB3*
