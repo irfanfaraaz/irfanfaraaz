@@ -57,13 +57,14 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 
-<img  src="https://github-stats-lemon.vercel.app/api?username=irfanfaraaz&show_icons=true&hide_border=true&theme=tokyonight" width="48%"  ><br/>
+<img  src="https://github-stats-lemon.vercel.app/api?username=irfanfaraaz&show_icons=true&theme=tokyonight"  ><br/><br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=irfanfaraaz&theme=tokyonight&hide_border=false)<br/>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=irfanfaraaz&limit=7&theme=tokyonight&combine_all_yearly_contributions=true)
 <div align="center">
-<img  src="https://github-readme-activity-graph.vercel.app/graph?username=irfanfaraaz&bg_color=0d1117&color=58c6e5&line=58c6e5&point=ffffff&area=true&hide_border=true"/>
+<img  src="https://github-readme-activity-graph.vercel.app/graph?username=irfanfaraaz&bg_color=0d1117&color=58c6e5&line=58c6e5&point=ffffff&area=true&"/>
 
 
 <img src="https://readme-jokes.vercel.app/api"/> 
