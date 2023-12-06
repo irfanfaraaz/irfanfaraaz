@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 <img  src="https://github-readme-activity-graph.vercel.app/graph?username=irfanfaraaz&bg_color=0d1117&color=58c6e5&line=58c6e5&point=ffffff&area=true&"/>
 
 
-<img src="https://readme-jokes.vercel.app/api"/> 
+
 </div>
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
