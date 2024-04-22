@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 ![My Skills](https://skillicons.dev/icons?i=html,css,supabase,postman,firebase,heroku,mysql,bootstrap,vscode,bash,redis,figma,threejs,linux,tensorflow)
 
 # 📊 GitHub Stats:
-
+<a href="https://gitroll.io/profile/uX9JEcuNTxOXjbtXSWAWG1p2qzK52" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uX9JEcuNTxOXjbtXSWAWG1p2qzK52" alt="GitRoll Profile Badge"/></a>
 
 <img  src="https://github-stats-lemon.vercel.app/api?username=irfanfaraaz&show_icons=true&theme=tokyonight"  ><br/><br/>
 
