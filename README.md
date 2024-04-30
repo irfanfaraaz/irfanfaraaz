@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 ## 🚀 Portfolio 
-[![Portfolio](https://img.shields.io/badge/%20🚀Portfolio-123456?style=for-the-badge)](https://irfanfaraz-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/%20🚀Portfolio-123456?style=for-the-badge)](https://syed-irfan-faraaz.vercel.app)
 
 ## 💼 Resume 
 
