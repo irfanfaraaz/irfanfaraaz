@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 
-<a href="https://gitroll.io/profile/uX9JEcuNTxOXjbtXSWAWG1p2qzK52" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uX9JEcuNTxOXjbtXSWAWG1p2qzK52" alt="GitRoll Profile Badge"/></a>
+
 <img  src="https://github-stats-lemon.vercel.app/api?username=irfanfaraaz&show_icons=true&theme=tokyonight"  ><br/><br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=irfanfaraaz&theme=tokyonight&hide_border=false)<br/>
