@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Syed Irfan Faraz</h1>
-<h3 align="center">Software Engineer | Competitive Coder | WEB3 | Building Agentic AI systems</h3>
+<h3 align="center">AI-native Software Engineer | Competitive Coder | WEB3 | Building Agentic AI systems</h3>
 <br>
 <img align="right" alt="Coding" width="500" src="https://appsmaventech.com/images/blog/The-Evolution-Of-Web-Development-Via-Machine-Learning.jpg">
 
