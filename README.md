@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 🎓 I am a Computer Science graduate from VIT Vellore, currently working as a *Software Engineer* at *Agape Engine*
 
-- 🌱 I’m currently learning *WEB3*
+- 🌱 I’m currently learning *WEB3* and *System Design*
   
 - 👯 I’m looking to collaborate on open source/commercial projects
 
