@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 [![Resume](https://img.shields.io/badge/%20Resume-8A2BE2?style=for-the-badge&logo=Google%20Drive&logoColor=cyan)](https://drive.google.com/file/d/19ab--QRTIWZywbK-OXmROhDMZ_OpmZm6/view?usp=sharing)
 
-- 🎓 I am a Computer Science graduate from VIT Vellore, currently working as a *Software Engineer* at *Agape Engine*
+
 
 - 🌱 I’m currently learning *WEB3* and *System Design*
   
